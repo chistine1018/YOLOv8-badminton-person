@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: test-skmj6
+  url: https://universe.roboflow.com/yolo-lab2/test-skmj6/dataset/3
+  version: 3
+  workspace: yolo-lab2
+test: C:\Users\user\Downloads\交大\深度學習\LAB2\Train_Group6_Augmentation\Test-3\test\images
+train: C:\Users\user\Downloads\交大\深度學習\LAB2\Train_Group6_Augmentation\Test-3\train\images
+val: C:\Users\user\Downloads\交大\深度學習\LAB2\Train_Group6_Augmentation\Test-3\valid\images
